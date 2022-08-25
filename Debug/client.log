@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(342,39): warning C4190: “_tzset”有指定的 C 链接，但返回了与 C 不兼容的 UDT“LDA”
+E:\FedL\client\model.h(16): message : 参见“LDA”的声明
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(594,73): warning C4190: “tzset”有指定的 C 链接，但返回了与 C 不兼容的 UDT“LDA”
+E:\FedL\client\model.h(16): message : 参见“LDA”的声明
+  client.vcxproj -> E:\FedL\client\Debug\client.exe
